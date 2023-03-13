@@ -1,2 +1,2 @@
 # MessageCountingBot
-This bot can count each participant's messages in a Telegram group chat
+This bot will count the amount of messages from each participant in a group chat.
