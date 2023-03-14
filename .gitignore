@@ -127,3 +127,23 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Ignore compiled Python files
+*.pyc
+
+# Ignore virtual environment directories
+venv/
+.env/
+
+# Ignore log files
+*.log
+
+# Ignore database files
+*.db
+
+# Ignore macOS system files
+.DS_Store
+
+
+# Ignore dev build
+botdev.py
