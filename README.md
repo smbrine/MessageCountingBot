@@ -17,5 +17,11 @@ It will send rude messages to the least participated users and some good words t
 
 You can change this bot's messages in `dic/dictionary.py` or check its logs in `pycache` and `logs/log.txt`
 
+## Notes
 
-**Note:** There is a little chance that I forgot to change the env file name in `config_reader.py`. Please check. There should be `env_file = '.token'`.
+**Note 1:** There is a little chance that I forgot to change the env file name in `config_reader.py`. Please check. There should be `env_file = '.token'`.
+
+**Note 2:** This bot is still under development so there are definitely a lot of bugs and mistakes. 
+
+**Note 3:** You can contact me in telegram via `t.me/smbrinee` to talk about quick-fixes and add-ons for this bot. 
+
