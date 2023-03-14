@@ -17,4 +17,5 @@ It will send rude messages to the least participated users and some good words t
 
 You can change this bot's messages in `dic/dictionary.py` or check its logs in `pycache` and `logs/log.txt`
 
+
 **Note:** There is a little chance that I forgot to change the env file name in `config_reader.py`. Please check. There should be `env_file = '.token'`.
